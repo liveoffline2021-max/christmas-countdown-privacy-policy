@@ -4,6 +4,12 @@
 
 Your privacy is important. Christmas Alarm Clock is designed **not to collect or store personal information**.
 
+## US State Privacy Rights
+
+If you are a resident of California, Virginia, or Colorado, you may have the right to opt out of the sale of your personal information. For information on how Google collects and uses your data for personalized ads, please visit [Google Ads Settings](https://www.google.com/settings/ads).
+
+You can also review or change your ad consent at any time via [Google’s consent revocation page](https://www.google.com/appconsent).
+
 This file contains the Privacy Policy in multiple languages. Click a language below to jump to it:
 
 ## Language Index
