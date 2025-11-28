@@ -10,6 +10,12 @@ If you are a resident of California, Virginia, or Colorado, you may have the rig
 
 You can also review or change your ad consent at any time via [Google’s consent revocation page](https://www.google.com/appconsent).
 
+## Privacy & Ads Consent
+
+For users in the EEA, UK, and Switzerland, you can review or change your ad consent at any time via [Google’s consent revocation page](https://www.google.com/appconsent).
+
+For US users (California, Virginia, Colorado), you can review or opt-out of personalized ads via [Google Ads Settings](https://www.google.com/settings/ads) and [consent revocation page](https://www.google.com/appconsent).
+
 This file contains the Privacy Policy in multiple languages. Click a language below to jump to it:
 
 ## Language Index
