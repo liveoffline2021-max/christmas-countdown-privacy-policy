@@ -50,8 +50,11 @@ Data collected by AdMob may be used to:
 
 We do not use your data for any other purposes.
 
-**User Choices**  
-You can opt out of personalized ads by adjusting your Google settings here: [Google Ads Settings](https://www.google.com/settings/ads)
+## Ad Consent and Revocation
+
+For users in the European Economic Area (EEA), the United Kingdom, and Switzerland, you can review or change your ad consent for this app at any time via [Google’s consent revocation page](https://www.google.com/appconsent).
+
+For general Google ad settings, you can also visit [Google Ads Settings](https://www.google.com/settings/ads) to manage your ad personalization across all Google services.
 
 **Children’s Privacy**  
 Christmas Alarm Clock is not intended for children under 13, and we do not knowingly collect data from children.
@@ -91,8 +94,12 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 لا نستخدم بياناتك لأي أغراض أخرى.
 
-**اختيارات المستخدم**  
-يمكنك إيقاف الإعلانات المخصصة من خلال تعديل إعدادات Google هنا: [إعدادات إعلانات Google](https://www.google.com/settings/ads)
+## الموافقة على الإعلانات وإعادة النظر
+
+للمستخدمين في المنطقة الاقتصادية الأوروبية (EEA) والمملكة المتحدة وسويسرا، يمكنك مراجعة أو تغيير موافقتك على الإعلانات لهذا التطبيق في أي وقت عبر [صفحة سحب الموافقة من Google](https://www.google.com/appconsent).
+
+لإعدادات إعلانات Google العامة، يمكنك أيضًا زيارة [إعدادات إعلانات Google](https://www.google.com/settings/ads) لإدارة تفضيلاتك للإعلانات عبر جميع خدمات Google.
+
 
 **خصوصية الأطفال**  
 تطبيق منبه عيد الميلاد غير مخصص للأطفال دون سن 13، ونحن لا نجمع بيانات من الأطفال عن عمد.
@@ -132,8 +139,11 @@ AdMob দ্বারা সংগ্রহিত ডেটা ব্যবহ�
 
 আমরা অন্য কোনো উদ্দেশ্যে আপনার ডেটা ব্যবহার করি না।
 
-**ব্যবহারকারীর পছন্দ**  
-আপনি এখানে Google সেটিংস পরিবর্তন করে ব্যক্তিগতকৃত বিজ্ঞাপন বন্ধ করতে পারেন: [Google Ads Settings](https://www.google.com/settings/ads)
+## বিজ্ঞাপন সম্মতি এবং প্রত্যাহার
+
+ইইএ, যুক্তরাজ্য এবং সুইজারল্যান্ডের ব্যবহারকারীরা যে কোনো সময় এই অ্যাপের জন্য তাদের বিজ্ঞাপন সম্মতি পর্যালোচনা বা পরিবর্তন করতে পারেন [Google-এর সম্মতি প্রত্যাহার পৃষ্ঠা](https://www.google.com/appconsent) ব্যবহার করে।
+
+সাধারণ Google বিজ্ঞাপন সেটিংসের জন্য, আপনি [Google বিজ্ঞাপন সেটিংস](https://www.google.com/settings/ads) ভিজিট করে আপনার বিজ্ঞাপন পছন্দগুলি সব Google সেবায় পরিচালনা করতে পারেন।
 
 **শিশুদের গোপনীয়তা**  
 ক্রিসমাস অ্যালার্ম ক্লক 13 বছরের কম বয়সী শিশুদের জন্য নয়, এবং আমরা শিশুদের থেকে সচেতনভাবে ডেটা সংগ্রহ করি না।
@@ -173,8 +183,11 @@ Von AdMob gesammelte Daten können verwendet werden für:
 
 Wir verwenden Ihre Daten nicht für andere Zwecke.
 
-**Benutzerwahl**  
-Sie können personalisierte Werbung deaktivieren, indem Sie Ihre Google-Einstellungen anpassen: [Google Ads Settings](https://www.google.com/settings/ads)
+## Anzeigenzustimmung und Widerruf
+
+Für Nutzer im Europäischen Wirtschaftsraum (EWR), im Vereinigten Königreich und in der Schweiz können Sie Ihre Zustimmung zu personalisierter Werbung für diese App jederzeit über [Google-Seite zur Widerrufung der Zustimmung](https://www.google.com/appconsent) prüfen oder ändern.
+
+Für allgemeine Google-Werbeeinstellungen können Sie auch [Google Ads-Einstellungen](https://www.google.com/settings/ads) besuchen, um Ihre Werbepräferenzen für alle Google-Dienste zu verwalten.
 
 **Kinderschutz**  
 Weihnachtswecker ist nicht für Kinder unter 13 Jahren gedacht, und wir sammeln wissentlich keine Daten von Kindern.
@@ -214,8 +227,11 @@ Los datos recopilados por AdMob pueden utilizarse para:
 
 No usamos tus datos para otros fines.
 
-**Opciones del Usuario**  
-Puedes optar por no recibir anuncios personalizados ajustando tus configuraciones de Google aquí: [Google Ads Settings](https://www.google.com/settings/ads)
+## Consentimiento y revocación de anuncios
+
+Para usuarios del Área Económica Europea (EEE), Reino Unido y Suiza, puedes revisar o cambiar tu consentimiento de anuncios para esta aplicación en cualquier momento a través de la [página de revocación de consentimiento de Google](https://www.google.com/appconsent).
+
+Para la configuración general de anuncios de Google, también puedes visitar [Configuración de anuncios de Google](https://www.google.com/settings/ads) para administrar tus preferencias de anuncios en todos los servicios de Google.
 
 **Privacidad Infantil**  
 Reloj Despertador de Navidad no está dirigido a menores de 13 años y no recopilamos datos de niños a sabiendas.
@@ -255,8 +271,11 @@ Les données collectées par AdMob peuvent être utilisées pour:
 
 Nous n’utilisons pas vos données à d’autres fins.
 
-**Choix de l’utilisateur**  
-Vous pouvez désactiver les publicités personnalisées en modifiant vos paramètres Google ici: [Google Ads Settings](https://www.google.com/settings/ads)
+## Consentement et révocation des annonces
+
+Pour les utilisateurs de l'Espace économique européen (EEE), du Royaume-Uni et de la Suisse, vous pouvez consulter ou modifier votre consentement aux annonces pour cette application à tout moment via la [page de révocation du consentement de Google](https://www.google.com/appconsent).
+
+Pour les paramètres généraux des annonces Google, vous pouvez également visiter [Paramètres des annonces Google](https://www.google.com/settings/ads) pour gérer vos préférences publicitaires sur tous les services Google.
 
 **Confidentialité des enfants**  
 Réveil de Noël n’est pas destiné aux enfants de moins de 13 ans et nous ne collectons pas sciemment leurs données.
@@ -296,8 +315,11 @@ AdMob द्वारा संग्रहित डेटा का उपय�
 
 हम आपके डेटा का अन्य उद्देश्यों के लिए उपयोग नहीं करते हैं।
 
-**उपयोगकर्ता विकल्प**  
-आप यहाँ Google सेटिंग बदलकर व्यक्तिगत विज्ञापन बंद कर सकते हैं: [Google Ads Settings](https://www.google.com/settings/ads)
+## विज्ञापन सहमति और वापस लेने की प्रक्रिया
+
+ईईए, यूनाइटेड किंगडम और स्विट्ज़रलैंड के उपयोगकर्ता इस ऐप के लिए अपनी विज्ञापन सहमति किसी भी समय [Google की सहमति वापस लेने का पृष्ठ](https://www.google.com/appconsent) देख या बदल सकते हैं।
+
+सामान्य Google विज्ञापन सेटिंग्स के लिए, आप [Google विज्ञापन सेटिंग्स](https://www.google.com/settings/ads) पर जाकर अपनी विज्ञापन प्राथमिकताएं सभी Google सेवाओं में प्रबंधित कर सकते हैं।
 
 **बच्चों की गोपनीयता**  
 क्रिसमस अलार्म क्लॉक 13 वर्ष से कम उम्र के बच्चों के लिए नहीं है, और हम जानबूझकर बच्चों का डेटा संग्रह नहीं करते हैं।
@@ -337,8 +359,11 @@ I dati raccolti da AdMob possono essere usati per:
 
 Non utilizziamo i tuoi dati per altri scopi.
 
-**Scelte dell’utente**  
-Puoi disattivare gli annunci personalizzati modificando le impostazioni Google: [Google Ads Settings](https://www.google.com/settings/ads)
+## Consenso e revoca degli annunci
+
+Per gli utenti dello Spazio Economico Europeo (SEE), del Regno Unito e della Svizzera, è possibile rivedere o modificare il consenso agli annunci per questa app in qualsiasi momento tramite la [pagina di revoca del consenso di Google](https://www.google.com/appconsent).
+
+Per le impostazioni generali degli annunci Google, puoi anche visitare [Impostazioni annunci Google](https://www.google.com/settings/ads) per gestire le tue preferenze pubblicitarie su tutti i servizi Google.
 
 **Privacy dei bambini**  
 La sveglia di Natale non è destinata a bambini sotto i 13 anni e non raccogliamo dati consapevolmente dai bambini.
@@ -378,8 +403,11 @@ AdMobにより収集されたデータは以下の目的で使用されること
 
 その他の目的でデータを使用することはありません。
 
-**ユーザーの選択**  
-パーソナライズ広告をオフにするには、Google設定を変更してください：[Google Ads Settings](https://www.google.com/settings/ads)
+## 広告同意と取り消し
+
+欧州経済領域（EEA）、英国、スイスのユーザーは、[Google の同意取り消しページ](https://www.google.com/appconsent) から、このアプリの広告同意をいつでも確認・変更できます。
+
+一般的な Google 広告設定については、[Google 広告設定](https://www.google.com/settings/ads) を訪問して、すべての Google サービスで広告の設定を管理できます。
 
 **子供のプライバシー**  
 クリスマスアラームクロックは13歳未満の子供向けではなく、子供のデータを意図的に収集することはありません。
@@ -419,8 +447,11 @@ AdMob에서 수집한 데이터는 다음에 사용될 수 있습니다:
 
 다른 목적으로 데이터가 사용되지 않습니다.
 
-**사용자 선택**  
-맞춤 광고를 원하지 않으면 Google 설정에서 선택을 변경할 수 있습니다: [Google Ads Settings](https://www.google.com/settings/ads)
+## 광고 동의 및 철회
+
+유럽 경제 지역(EEA), 영국 및 스위스 사용자는 [Google 동의 철회 페이지](https://www.google.com/appconsent)를 통해 언제든지 이 앱의 광고 동의를 검토하거나 변경할 수 있습니다.
+
+일반 Google 광고 설정을 위해서는 [Google 광고 설정](https://www.google.com/settings/ads)을 방문하여 모든 Google 서비스에서 광고 환경설정을 관리할 수 있습니다.
 
 **어린이 개인정보 보호**  
 크리스마스 알람 시계는 13세 미만 어린이를 대상으로 하지 않으며, 어린이 데이터를 의도적으로 수집하지 않습니다.
@@ -460,8 +491,11 @@ Door AdMob verzamelde gegevens kunnen worden gebruikt om:
 
 Wij gebruiken uw gegevens niet voor andere doeleinden.
 
-**Gebruikerskeuzes**  
-U kunt gepersonaliseerde advertenties uitschakelen door uw Google-instellingen aan te passen: [Google Ads Settings](https://www.google.com/settings/ads)
+## Advertentietoestemming en intrekking
+
+Gebruikers in de Europese Economische Ruimte (EER), het Verenigd Koninkrijk en Zwitserland kunnen hun toestemming voor advertenties voor deze app op elk moment bekijken of wijzigen via de [Google-pagina voor het intrekken van toestemming](https://www.google.com/appconsent).
+
+Voor algemene Google-advertentie-instellingen kunt u ook [Google Advertentie-instellingen](https://www.google.com/settings/ads) bezoeken om uw advertentievoorkeuren voor alle Google-services te beheren.
 
 **Privacy van kinderen**  
 Kerstwekker is niet bedoeld voor kinderen onder de 13 jaar en wij verzamelen bewust geen gegevens van kinderen.
@@ -501,8 +535,11 @@ Dane zbierane przez AdMob mogą być wykorzystywane do:
 
 Nie wykorzystujemy danych w innych celach.
 
-**Wybory użytkownika**  
-Możesz zrezygnować ze spersonalizowanych reklam, zmieniając ustawienia Google: [Google Ads Settings](https://www.google.com/settings/ads)
+## Zgoda na reklamy i jej cofnięcie
+
+Użytkownicy w Europejskim Obszarze Gospodarczym (EEA), Wielkiej Brytanii i Szwajcarii mogą w dowolnym momencie przeglądać lub zmieniać swoją zgodę na reklamy dla tej aplikacji za pomocą [strony Google do cofnięcia zgody](https://www.google.com/appconsent).
+
+Dla ogólnych ustawień reklam Google możesz również odwiedzić [Ustawienia reklam Google](https://www.google.com/settings/ads), aby zarządzać swoimi preferencjami reklamowymi we wszystkich usługach Google.
 
 **Prywatność dzieci**  
 Budzik Bożonarodzeniowy nie jest przeznaczony dla dzieci poniżej 13 roku życia i nie zbieramy świadomie danych od dzieci.
@@ -542,8 +579,11 @@ Os dados coletados pelo AdMob podem ser usados para:
 
 Não usamos seus dados para outros fins.
 
-**Escolhas do Usuário**  
-Você pode optar por não receber anúncios personalizados ajustando suas configurações do Google: [Google Ads Settings](https://www.google.com/settings/ads)
+## Consentimento e revogação de anúncios
+
+Para usuários na Área Econômica Europeia (EEA), Reino Unido e Suíça, você pode revisar ou alterar seu consentimento para anúncios deste aplicativo a qualquer momento através da [página de revogação de consentimento do Google](https://www.google.com/appconsent).
+
+Para configurações gerais de anúncios do Google, você também pode visitar [Configurações de anúncios do Google](https://www.google.com/settings/ads) para gerenciar suas preferências de anúncios em todos os serviços do Google.
 
 **Privacidade Infantil**  
 O Despertador de Natal não se destina a crianças menores de 13 anos, e não coletamos dados de crianças conscientemente.
@@ -583,8 +623,11 @@ Datele colectate de AdMob pot fi folosite pentru:
 
 Nu folosim datele dvs. în alte scopuri.
 
-**Opțiuni pentru utilizatori**  
-Puteți renunța la reclamele personalizate ajustând setările Google: [Google Ads Settings](https://www.google.com/settings/ads)
+## Consimțământ și revocare pentru reclame
+
+Utilizatorii din Spațiul Economic European (SEE), Regatul Unit și Elveția pot revizui sau modifica consimțământul pentru reclame pentru această aplicație oricând prin [pagina de revocare a consimțământului Google](https://www.google.com/appconsent).
+
+Pentru setările generale ale reclamelor Google, puteți vizita și [Setările reclamelor Google](https://www.google.com/settings/ads) pentru a vă gestiona preferințele de reclame în toate serviciile Google.
 
 **Confidențialitatea copiilor**  
 Ceasul deșteptător de Crăciun nu este destinat copiilor sub 13 ani și nu colectăm date de la copii în mod conștient.
@@ -624,8 +667,11 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 Мы не используем ваши данные для других целей.
 
-**Выбор пользователя**  
-Вы можете отказаться от персонализированной рекламы, изменив настройки Google: [Google Ads Settings](https://www.google.com/settings/ads)
+## Согласие на рекламу и отзыв
+
+Пользователи в Европейской экономической зоне (EEA), Великобритании и Швейцарии могут в любое время просмотреть или изменить свое согласие на рекламу для этого приложения через [страницу отзыва согласия Google](https://www.google.com/appconsent).
+
+Для общих настроек рекламы Google вы также можете посетить [Настройки рекламы Google](https://www.google.com/settings/ads), чтобы управлять своими предпочтениями рекламы во всех сервисах Google.
 
 **Конфиденциальность детей**  
 Приложение не предназначено для детей младше 13 лет, и мы сознательно не собираем данные о детях.
@@ -665,8 +711,11 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 Ми не використовуємо ваші дані для інших цілей.
 
-**Вибір користувача**  
-Ви можете відмовитися від персоналізованої реклами, змінивши налаштування Google: [Google Ads Settings](https://www.google.com/settings/ads)
+## Згода на рекламу та відкликання
+
+Користувачі в Європейській економічній зоні (EEA), Великій Британії та Швейцарії можуть у будь-який час переглянути або змінити свою згоду на рекламу для цього додатка через [сторінку відкликання згоди Google](https://www.google.com/appconsent).
+
+Для загальних налаштувань реклами Google ви також можете відвідати [Налаштування реклами Google](https://www.google.com/settings/ads), щоб керувати своїми рекламними вподобаннями у всіх сервісах Google.
 
 **Конфіденційність дітей**  
 Різдвяний будильник не призначений для дітей до 13 років, і ми навмисно не збираємо дані дітей.
