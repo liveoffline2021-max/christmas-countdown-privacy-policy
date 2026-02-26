@@ -21,20 +21,33 @@ This file contains the Privacy Policy in multiple languages. Click a language be
 ## Language Index
 - [English](#english-en)
 - [Arabic](#arabic-ar)
+- [Bulgarian](#bulgarian-bg)
 - [Bengali](#bengali-bn)
+- [Danish](#danish-da)
 - [German](#german-de)
 - [Greek](#greek-el)
 - [Spanish](#spanish-es)
+- [Finnish](#finnish-fi)
 - [French](#french-fr)
 - [Hindi](#hindi-hi)
+- [Croatian](#croatian-hr)
+- [Hungarian](#hungarian-hu)
+- [Armenian](#armenian-hy)
+- [Icelandic](#icelandic-is)
 - [Italian](#italian-it)
 - [Japanese](#japanese-ja)
 - [Korean](#korean-ko)
+- [Lithuanian](#lithuanian-lt)
+- [Macedonian](#macedonian-mk)
+- [Norwegian Bokmål](#norwegian-bokmål-nb)
 - [Dutch](#dutch-nl)
 - [Polish](#polish-pl)
 - [Portuguese](#portuguese-pt)
 - [Romanian](#romanian-ro)
 - [Russian](#russian-ru)
+- [Slovak](#slovak-sk)
+- [Slovenian](#slovenian-sl)
+- [Swedish](#swedish-sv)
 - [Ukrainian](#ukrainian-uk)
 
 ---
@@ -128,6 +141,49 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 ---
 
+## Bulgarian (bg)
+
+**Политика за поверителност – Christmas Alarm Clock**  
+
+**Дата на влизане в сила:** 24 ноември 2025 г.  
+
+Вашата поверителност е важна за нас. Christmas Alarm Clock е създадено така, че **да не събира и да не съхранява никаква лична информация**.
+
+### Събиране на данни
+Въпреки че не събираме вашите лични данни, това приложение използва **Google AdMob**, за да показва реклами. AdMob може да събира информация като:  
+- Идентификатори на устройството (напр. рекламен идентификатор)  
+- Данни за използване (напр. взаимодействия с приложението, продължителност на сесията)  
+
+Тази информация се използва за предоставяне на персонализирани реклами и за подобряване на ефективността на рекламите. Ние нямаме достъп до лични данни и не ги споделяме.
+
+### Как се използват вашите данни
+Данните, събрани от AdMob, могат да бъдат използвани за:  
+- Показване на реклами, съобразени с вашите интереси  
+- Измерване на ефективността на рекламите и подобряване качеството на приложението  
+- Предотвратяване на измами и повишаване на сигурността  
+
+Ние не използваме вашите данни за други цели.
+
+### Съгласие за реклами и оттегляне
+За потребители в Европейското икономическо пространство (ЕИП), Обединеното кралство и Швейцария можете по всяко време да прегледате или промените съгласието си за реклами за това приложение чрез [страницата на Google за оттегляне на съгласие](https://www.google.com/appconsent).
+
+За общи настройки на рекламите на Google можете също да посетите [Google Ads Settings](https://www.google.com/settings/ads), за да управлявате персонализирането на рекламите във всички услуги на Google.
+
+### Поверителност на децата
+Christmas Alarm Clock не е предназначено за деца под 13 години и ние съзнателно не събираме данни от деца.
+
+### Услуги на трети страни
+Това приложение използва услуги на трети страни като Google AdMob, които имат свои собствени практики за поверителност. За повече информация, моля, вижте [Политиката за поверителност на Google](https://policies.google.com/privacy).
+
+### Актуализации на тази политика за поверителност
+Можем периодично да актуализираме тази Политика за поверителност. Най-новата версия винаги ще бъде достъпна в приложението.
+
+### Свържете се с нас
+Ако имате въпроси или притеснения относно тази Политика за поверителност, свържете се с нас:  
+**Имейл:** contact@liveoffline.ca
+
+---
+
 ## Bengali (bn)
 
 **গোপনীয়তা নীতি – ক্রিসমাস অ্যালার্ম ক্লক**  
@@ -169,6 +225,49 @@ AdMob দ্বারা সংগ্রহিত ডেটা ব্যবহ�
 **যোগাযোগ করুন**  
 এই গোপনীয়তা নীতির বিষয়ে আপনার কোনো প্রশ্ন বা উদ্বেগ থাকলে, আমাদের সাথে যোগাযোগ করুন:  
 **ইমেল:** contact@liveoffline.ca
+
+---
+
+## Danish (da)
+
+**Privatlivspolitik – Christmas Alarm Clock**  
+
+**Ikrafttrædelsesdato:** 24. november 2025  
+
+Dit privatliv er vigtigt for os. Christmas Alarm Clock er designet til **ikke at indsamle eller gemme personlige oplysninger**.
+
+### Dataindsamling
+Selvom vi ikke indsamler dine personlige oplysninger, bruger denne app **Google AdMob** til at vise annoncer. AdMob kan indsamle oplysninger såsom:  
+- Enhedsidentifikatorer (f.eks. annonce-ID)  
+- Brugsdata (f.eks. app-interaktioner, sessionsvarighed)  
+
+Disse oplysninger bruges til at levere personlige annoncer og forbedre annonceydelsen. Vi har ikke adgang til personlige oplysninger og deler dem ikke.
+
+### Hvordan dine data bruges
+Data indsamlet af AdMob kan bruges til:  
+- At vise annoncer, der matcher dine interesser  
+- At måle annonceydelse og forbedre app-kvalitet  
+- At forhindre svindel og forbedre sikkerhed  
+
+Vi bruger ikke dine data til andre formål.
+
+### Samtykke til annoncer og tilbagekaldelse
+For brugere i Det Europæiske Økonomiske Samarbejdsområde (EØS), Storbritannien og Schweiz kan du til enhver tid gennemgå eller ændre dit annoncemedgivende samtykke for denne app via [Googles side for tilbagekaldelse af samtykke](https://www.google.com/appconsent).
+
+For generelle Google-annonceindstillinger kan du også besøge [Google Ads Settings](https://www.google.com/settings/ads) for at administrere din annoncepersonalisering på tværs af alle Google-tjenester.
+
+### Børns privatliv
+Christmas Alarm Clock er ikke beregnet til børn under 13 år, og vi indsamler ikke bevidst data fra børn.
+
+### Tjenester fra tredjepart
+Denne app bruger tredjepartstjenester såsom Google AdMob, som har deres egne privatlivspraksisser. For mere information, se venligst [Googles privatlivspolitik](https://policies.google.com/privacy).
+
+### Opdateringer af denne privatlivspolitik
+Vi kan lejlighedsvis opdatere denne privatlivspolitik. Den nyeste version vil altid være tilgængelig i appen.
+
+### Kontakt os
+Hvis du har spørgsmål eller bekymringer om denne privatlivspolitik, kontakt os:  
+**Email:** contact@liveoffline.ca
 
 ---
 
@@ -304,6 +403,49 @@ Si tienes preguntas o inquietudes sobre esta política de privacidad, contáctan
 
 ---
 
+## Finnish (fi)
+
+**Tietosuojakäytäntö – Christmas Alarm Clock**  
+
+**Voimassa oleva päivämäärä:** 24. marraskuuta 2025  
+
+Yksityisyytesi on meille tärkeää. Christmas Alarm Clock on suunniteltu niin, että se **ei kerää eikä tallenna henkilökohtaisia tietoja**.
+
+### Tietojen kerääminen
+Vaikka emme kerää henkilökohtaisia tietojasi, tämä sovellus käyttää **Google AdMobia** mainosten näyttämiseen. AdMob voi kerätä tietoja, kuten:  
+- Laitteen tunnisteet (esim. mainos-ID)  
+- Käyttötiedot (esim. sovelluksen käyttö, istunnon kesto)  
+
+Näitä tietoja käytetään personoitujen mainosten näyttämiseen ja mainosten suorituskyvyn parantamiseen. Meillä ei ole pääsyä henkilökohtaisiin tietoihin emmekä jaa niitä.
+
+### Kuinka tietojasi käytetään
+AdMobin keräämiä tietoja voidaan käyttää:  
+- Näyttämään mainoksia, jotka vastaavat kiinnostuksen kohteitasi  
+- Mittaamaan mainosten suorituskykyä ja parantamaan sovelluksen laatua  
+- Estämään huijausta ja parantamaan turvallisuutta  
+
+Emme käytä tietojasi muihin tarkoituksiin.
+
+### Mainossuostumus ja peruuttaminen
+Euroopan talousalueen (ETA), Yhdistyneen kuningaskunnan ja Sveitsin käyttäjät voivat tarkistaa tai muuttaa suostumustaan mainosten näyttämiseen milloin tahansa tämän sovelluksen kautta [Googlen suostumuksen peruuttamissivulla](https://www.google.com/appconsent).
+
+Voit myös hallita mainospersonalisoimista kaikissa Google-palveluissa vierailemalla [Google Ads Settings](https://www.google.com/settings/ads) -sivulla.
+
+### Lasten yksityisyys
+Christmas Alarm Clock ei ole tarkoitettu alle 13-vuotiaille lapsille, emmekä tietoisesti kerää lapsilta tietoja.
+
+### Kolmannen osapuolen palvelut
+Tämä sovellus käyttää kolmannen osapuolen palveluja, kuten Google AdMobia, joilla on omat tietosuojakäytäntönsä. Lisätietoja löytyy osoitteesta [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Tietosuojakäytännön päivitykset
+Saatamme päivittää tätä tietosuojakäytäntöä ajoittain. Uusin versio on aina saatavilla sovelluksessa.
+
+### Ota yhteyttä
+Jos sinulla on kysyttävää tai huolenaiheita tästä tietosuojakäytännöstä, ota meihin yhteyttä:  
+**Sähköposti:** contact@liveoffline.ca
+
+---
+
 ## French (fr)
 
 **Politique de Confidentialité – Réveil de Noël**  
@@ -389,6 +531,176 @@ AdMob द्वारा संग्रहित डेटा का उपय�
 **संपर्क करें**  
 यदि आपके पास इस नीति के बारे में प्रश्न हैं, तो हमसे संपर्क करें:  
 **ईमेल:** contact@liveoffline.ca
+
+---
+
+## Croatian (hr)
+
+**Pravila privatnosti – Christmas Alarm Clock**  
+
+**Datum stupanja na snagu:** 24. studenoga 2025  
+
+Vaša privatnost nam je važna. Christmas Alarm Clock je dizajniran tako da **ne prikuplja niti pohranjuje osobne podatke**.
+
+### Prikupljanje podataka
+Iako ne prikupljamo vaše osobne podatke, ova aplikacija koristi **Google AdMob** za prikazivanje oglasa. AdMob može prikupljati informacije kao što su:  
+- Identifikatori uređaja (npr. ID oglasa)  
+- Podaci o korištenju (npr. interakcije u aplikaciji, trajanje sesije)  
+
+Ove informacije koriste se za prikaz personaliziranih oglasa i poboljšanje performansi oglasa. Nemamo pristup osobnim podacima niti ih sami dijelimo.
+
+### Kako se koriste vaši podaci
+Podaci prikupljeni od strane AdMoba mogu se koristiti za:  
+- Prikazivanje oglasa koji odgovaraju vašim interesima  
+- Mjerenje učinkovitosti oglasa i poboljšanje kvalitete aplikacije  
+- Sprječavanje prijevara i povećanje sigurnosti  
+
+Ne koristimo vaše podatke u druge svrhe.
+
+### Suglasnost za oglase i opoziv
+Korisnici u Europskom gospodarskom prostoru (EEA), Ujedinjenom Kraljevstvu i Švicarskoj mogu pregledati ili promijeniti svoju suglasnost za oglase za ovu aplikaciju u bilo kojem trenutku putem [Googleove stranice za opoziv suglasnosti](https://www.google.com/appconsent).
+
+Za opće Google postavke oglasa također možete posjetiti [Google Ads Settings](https://www.google.com/settings/ads) kako biste upravljali personalizacijom oglasa u svim Google uslugama.
+
+### Privatnost djece
+Christmas Alarm Clock nije namijenjen djeci mlađoj od 13 godina, i ne prikupljamo svjesno podatke od djece.
+
+### Usluge trećih strana
+Ova aplikacija koristi usluge trećih strana poput Google AdMoba, koji imaju vlastite prakse privatnosti. Za više informacija pogledajte [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Ažuriranja ove politike privatnosti
+Povremeno možemo ažurirati ovu politiku privatnosti. Najnovija verzija uvijek će biti dostupna unutar aplikacije.
+
+### Kontaktirajte nas
+Ako imate pitanja ili zabrinutosti u vezi ove politike privatnosti, kontaktirajte nas:  
+**Email:** contact@liveoffline.ca
+
+---
+
+## Hungarian (hu)
+
+**Adatvédelmi irányelvek – Christmas Alarm Clock**  
+
+**Hatálybalépés dátuma:** 2025. november 24.  
+
+Az Ön magánélete fontos számunkra. A Christmas Alarm Clock úgy lett tervezve, hogy **ne gyűjtsön vagy tároljon személyes adatokat**.
+
+### Adatgyűjtés
+Bár nem gyűjtjük az Ön személyes adatait, ez az alkalmazás **Google AdMob** szolgáltatást használ hirdetések megjelenítésére. Az AdMob gyűjthet információkat, például:  
+- Eszközazonosítók (pl. hirdetési azonosító)  
+- Használati adatok (pl. alkalmazáson belüli interakciók, munkamenet időtartama)  
+
+Ezeket az információkat személyre szabott hirdetések biztosítására és a hirdetések teljesítményének javítására használják. Nincs hozzáférésünk személyes adatokhoz, és nem osztjuk meg azokat.
+
+### Az adatok felhasználása
+Az AdMob által gyűjtött adatokat a következőkre lehet felhasználni:  
+- Hirdetések megjelenítése az érdeklődési körének megfelelően  
+- Hirdetések teljesítményének mérése és az alkalmazás minőségének javítása  
+- Csalások megelőzése és a biztonság növelése  
+
+Az Ön adatait más célokra nem használjuk fel.
+
+### Hirdetési hozzájárulás és visszavonás
+Az Európai Gazdasági Térség (EGT), az Egyesült Királyság és Svájc felhasználói bármikor felülvizsgálhatják vagy módosíthatják hirdetési hozzájárulásukat erre az alkalmazásra a [Google hozzájárulás visszavonási oldalán](https://www.google.com/appconsent).
+
+Általános Google-hirdetési beállítások kezeléséhez látogasson el a [Google Ads Settings](https://www.google.com/settings/ads) oldalra, hogy kezelhesse a hirdetések személyre szabását minden Google-szolgáltatásban.
+
+### Gyermekek adatvédelme
+A Christmas Alarm Clock nem gyermekeknek, 13 év alattiaknak készült, és nem gyűjtünk tudatosan adatokat gyermekektől.
+
+### Harmadik fél szolgáltatásai
+Ez az alkalmazás harmadik fél szolgáltatásait használja, például a Google AdMob-ot, amelyeknek saját adatvédelmi gyakorlataik vannak. További információért tekintse meg a [Google Privacy Policy](https://policies.google.com/privacy) dokumentumot.
+
+### Adatvédelmi irányelvek frissítése
+Időnként frissíthetjük ezt az adatvédelmi irányelvet. A legfrissebb verzió mindig elérhető lesz az alkalmazáson belül.
+
+### Kapcsolat
+Ha kérdése vagy aggálya van ezzel az adatvédelmi irányelvvel kapcsolatban, lépjen kapcsolatba velünk:  
+**Email:** contact@liveoffline.ca
+
+---
+
+## Armenian (hy)
+
+**Գաղտնիության քաղաքականություն – Christmas Alarm Clock**  
+
+**Բաշխման ամսաթիվը:** 2025 թվականի նոյեմբերի 24  
+
+Ձեր գաղտնիությունը մեզ համար կարևոր է։ Christmas Alarm Clock-ը նախագծված է այնպես, որ **չհավաքի և չպահի անձնական տեղեկություններ**։
+
+### Տվյալների հավաքագրում  
+Չնայած մենք չենք հավաքագրում ձեր անձնական տվյալները, այս հավելվածը օգտագործում է **Google AdMob** գովազդներ ցուցադրելու համար: AdMob-ը կարող է հավաքել հետևյալ տեղեկությունները՝  
+- Պահոցային սարքերի նույնացուցիչներ (օրինակ՝ գովազդի ID)  
+- Օգտագործման տվյալներ (օրինակ՝ հավելվածի ինտերակցիաներ, նստաշրջանի տևողություն)  
+
+Այս տեղեկությունները օգտագործվում են անհատականացված գովազդներ ցուցադրելու և գովազդի կատարողականությունը բարելավելու համար: Մենք չունենք հասանելիություն անձնական տվյալներին և չենք բաժանում դրանք:
+
+### Տվյալների օգտագործում  
+AdMob-ի կողմից հավաքված տվյալները կարող են օգտագործվել՝  
+- Ցույց տալ գովազդներ, որոնք համապատասխանում են ձեր հետաքրքրություններին  
+- Չափել գովազդի կատարողականությունը և բարելավել հավելվածի որակը  
+- Պաշտպանել հափշտակությունից և բարելավել անվտանգությունը  
+
+Մենք չենք օգտագործում ձեր տվյալները այլ նպատակների համար:
+
+### Գովազդի համաձայնություն և հետ կանչում  
+Եվրոպական տնտեսական տարածքի (EEA), Միացյալ Թագավորության և Շվեյցարիայի օգտատերերը կարող են ցանկացած պահի վերանայել կամ փոփոխել այս հավելվածի գովազդային համաձայնությունը՝ այցելելով [Google-ի համաձայնության հետ կանչման էջը](https://www.google.com/appconsent):
+
+Ընդհանուր Google գովազդային կարգավորումների համար կարող եք նաև այցելել [Google Ads Settings](https://www.google.com/settings/ads), որպեսզի կառավարեք ձեր գովազդների անհատականացումը բոլոր Google ծառայություններում:
+
+### Երեխաների գաղտնիություն  
+Christmas Alarm Clock-ը նախատեսված չէ 13 տարեկանից փոքր երեխաների համար, և մենք գիտակցաբար չենք հավաքագրում տվյալներ երեխաներից:
+
+### Երրորդ կողմի ծառայություններ  
+Այս հավելվածը օգտագործում է երրորդ կողմի ծառայություններ, ինչպիսիք են Google AdMob-ը, որոնք ունեն իրենց գաղտնիության քաղաքականությունները: Լրացուցիչ տեղեկությունների համար տես [Google Privacy Policy](https://policies.google.com/privacy):
+
+### Գաղտնիության քաղաքականության թարմացումներ  
+Մենք ժամանակ առ ժամանակ կարող ենք թարմացնել այս գաղտնիության քաղաքականությունը: Վերջին տարբերակը միշտ հասանելի կլինի հավելվածում:
+
+### Կապ մեզ հետ  
+Եթե հարցեր կամ մտահոգություններ ունեք այս գաղտնիության քաղաքականության վերաբերյալ, դիմեք մեզ՝  
+**Էլ. փոստ:** contact@liveoffline.ca
+
+---
+
+## Icelandic (is)
+
+**Gagnaverndarstefna – Christmas Alarm Clock**  
+
+**Gildistími:** 24. nóvember 2025  
+
+Persónuvernd þín er mikilvæg fyrir okkur. Christmas Alarm Clock er hannað til að **safna ekki eða geyma persónulegar upplýsingar**.
+
+### Gagnasöfnun  
+Þó við söfnum ekki persónulegum gögnum þínum notar þessi forrit **Google AdMob** til að birta auglýsingar. AdMob getur safnað upplýsingum eins og:  
+- Auðkenni tækja (t.d. auglýsingar-ID)  
+- Notkunargögn (t.d. samspil í forriti, lengd fundar)  
+
+Þessar upplýsingar eru notaðar til að sýna sérsniðnar auglýsingar og bæta árangur auglýsinga. Við höfum ekki aðgang að persónulegum gögnum og deilum þeim ekki sjálf.
+
+### Hvernig gögnin þín eru notuð  
+Gögn sem AdMob safnar má nota til að:  
+- Sýna auglýsingar sem passa við áhugasvið þitt  
+- Mæla árangur auglýsinga og bæta gæði forrits  
+- Koma í veg fyrir svik og auka öryggi  
+
+Við notum ekki gögnin þín í önnur skilyrði.
+
+### Notendaval  
+Þú getur aftengt sérsniðnar auglýsingar með því að stilla Google stillingar þínar hér: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Persónuvernd barna  
+Christmas Alarm Clock er ekki ætlað börnum yngri en 13 ára og við söfnum ekki meðvitað gögnum frá börnum.
+
+### Þriðja aðila þjónusta  
+Þetta forrit notar þjónustu þriðja aðila eins og Google AdMob, sem hafa sínar eigin persónuverndarstefnur. Fyrir frekari upplýsingar, sjáðu [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Uppfærslur á þessari gagnaverndarstefnu  
+Við getum uppfært þessa gagnaverndarstefnu öðru hvoru. Nýjasta útgáfan verður alltaf aðgengileg innan appsins.
+
+### Hafðu samband  
+Ef þú hefur spurningar eða áhyggjur varðandi þessa gagnaverndarstefnu, hafðu samband við okkur:  
+**Tölvupóstur:** contact@liveoffline.ca
 
 ---
 
@@ -521,6 +833,129 @@ AdMob에서 수집한 데이터는 다음에 사용될 수 있습니다:
 **문의하기**  
 이 개인정보 처리방침에 대한 질문이나 우려사항이 있으면 연락주세요:  
 **이메일:** contact@liveoffline.ca
+
+---
+
+## Lithuanian (lt)
+
+**Privatumo politika – Christmas Alarm Clock**  
+
+**Įsigaliojimo data:** 2025 m. lapkričio 24 d.  
+
+Jūsų privatumas mums svarbus. Christmas Alarm Clock yra sukurtas taip, kad **nesirinktų ir nesaugotų jokios asmeninės informacijos**.
+
+### Duomenų rinkimas  
+Nors mes nesirenkame jūsų asmeninių duomenų, ši programa naudoja **Google AdMob** reklamos rodymui. AdMob gali rinkti tokią informaciją:  
+- Įrenginio identifikatoriai (pvz., reklamos ID)  
+- Naudojimo duomenys (pvz., sąveikos su programėle, sesijos trukmė)  
+
+Ši informacija naudojama personalizuotai reklamai rodyti ir reklamos našumui gerinti. Mes neturime prieigos prie asmeninės informacijos ir jos nesidaliname.
+
+### Kaip naudojami jūsų duomenys  
+AdMob surinkti duomenys gali būti naudojami:  
+- Rodyti reklamas, atitinkančias jūsų pomėgius  
+- Matuoti reklamos našumą ir gerinti programėlės kokybę  
+- Užkirsti kelią sukčiavimui ir didinti saugumą  
+
+Mes nenaudojame jūsų duomenų jokioms kitoms reikmėms.
+
+### Vartotojo pasirinkimai  
+Galite atsisakyti personalizuotų reklamų, pakeisdami savo Google nustatymus čia: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Vaikų privatumas  
+Christmas Alarm Clock nėra skirtas vaikams iki 13 metų, ir mes sąmoningai nerenkame duomenų iš vaikų.
+
+### Trečiųjų šalių paslaugos  
+Ši programa naudoja trečiųjų šalių paslaugas, tokias kaip Google AdMob, kurios turi savo privatumo praktikas. Daugiau informacijos rasite čia: [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Šios privatumo politikos atnaujinimai  
+Kartais galime atnaujinti šią privatumo politiką. Naujausia versija visada bus pasiekiama programėlėje.
+
+### Susisiekite su mumis  
+Jei turite klausimų ar susirūpinimą dėl šios privatumo politikos, susisiekite su mumis:  
+**El. paštas:** contact@liveoffline.ca
+
+---
+
+## Macedonian (mk)
+
+**Политика за приватност – Christmas Alarm Clock**  
+
+**Датум на стапување во сила:** 24 ноември 2025  
+
+Вашата приватност е важна за нас. Christmas Alarm Clock е дизајниран така што **не собира ниту чува никакви лични информации**.
+
+### Собирање на податоци  
+Иако не ги собираме вашите лични податоци, оваа апликација користи **Google AdMob** за прикажување реклами. AdMob може да собира информации како:  
+- Идентификатори на уреди (на пр., рекламски ID)  
+- Податоци за користење (на пр., интеракции со апликацијата, траење на сесијата)  
+
+Овие информации се користат за прикажување персонализирани реклами и подобрување на перформансите на рекламите. Ние немаме пристап до лични детали и не ги споделуваме.
+
+### Како се користат вашите податоци  
+Податоците собрани од AdMob може да се користат за:  
+- Прикажување реклами што одговараат на вашите интереси  
+- Мерење на перформансите на рекламите и подобрување на квалитетот на апликацијата  
+- Превенција на измами и зголемување на безбедноста  
+
+Не ги користиме вашите податоци за други цели.
+
+### Избори на корисникот  
+Можете да се откажете од персонализирани реклами со прилагодување на вашите Google поставки тука: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Приватност на децата  
+Christmas Alarm Clock не е наменет за деца под 13 години и не собираме свесно податоци од деца.
+
+### Услуги на трети страни  
+Оваа апликација користи услуги на трети страни како Google AdMob, кои имаат свои практики за приватност. За повеќе информации, видете ја [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Ажурирања на оваа политика за приватност  
+Понекогаш можеме да ја ажурираме оваа политика за приватност. Најновата верзија секогаш ќе биде достапна во апликацијата.
+
+### Контакт  
+Ако имате прашања или загриженост за оваа политика за приватност, контактирајте нè:  
+**Е-пошта:** contact@liveoffline.ca
+
+---
+
+## Norwegian Bokmål (nb)
+
+**Personvernregler – Christmas Alarm Clock**  
+
+**Ikrafttredelsesdato:** 24. november 2025  
+
+Personvernet ditt er viktig for oss. Christmas Alarm Clock er laget for å **ikke samle inn eller lagre noen personlig informasjon**.
+
+### Datainnsamling  
+Selv om vi ikke samler inn dine personopplysninger, bruker denne appen **Google AdMob** for å vise annonser. AdMob kan samle inn informasjon som:  
+- Enhetsidentifikatorer (f.eks. reklame-ID)  
+- Bruksdata (f.eks. app-interaksjoner, øktvarighet)  
+
+Denne informasjonen brukes til å vise personlig tilpassede annonser og forbedre annonseytelsen. Vi har ikke tilgang til personlige detaljer og deler dem ikke selv.
+
+### Hvordan dataene dine brukes  
+Data samlet inn av AdMob kan brukes til å:  
+- Vise annonser som passer dine interesser  
+- Måle annonseytelse og forbedre app-kvalitet  
+- Forebygge svindel og forbedre sikkerhet  
+
+Vi bruker ikke dataene dine til andre formål.
+
+### Brukervalgsalternativer  
+Du kan velge å ikke motta personaliserte annonser ved å justere Google-innstillingene dine her: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Barns personvern  
+Christmas Alarm Clock er ikke ment for barn under 13 år, og vi samler ikke bevisst inn data fra barn.
+
+### Tjenester fra tredjepart  
+Denne appen bruker tredjepartstjenester som Google AdMob, som har sine egne retningslinjer for personvern. For mer informasjon, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Oppdateringer av denne personvernpolicyen  
+Vi kan oppdatere denne personvernpolicyen fra tid til annen. Den nyeste versjonen vil alltid være tilgjengelig i appen.
+
+### Kontakt oss  
+Hvis du har spørsmål eller bekymringer om denne personvernpolicyen, kontakt oss:  
+**E-post:** contact@liveoffline.ca
 
 ---
 
@@ -741,6 +1176,129 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 **Связь с нами**  
 Если у вас есть вопросы о политике конфиденциальности, свяжитесь с нами:  
 **Email:** contact@liveoffline.ca
+
+---
+
+## Slovak (sk)
+
+**Zásady ochrany osobných údajov – Christmas Alarm Clock**  
+
+**Dátum účinnosti:** 24. november 2025  
+
+Vaše súkromie je pre nás dôležité. Christmas Alarm Clock je navrhnutý tak, aby **nezhromažďoval ani neukladal žiadne osobné informácie**.
+
+### Zhromažďovanie údajov  
+Aj keď nezbierame vaše osobné údaje, táto aplikácia používa **Google AdMob** na zobrazovanie reklám. AdMob môže zhromažďovať informácie, ako sú:  
+- Identifikátory zariadení (napr. reklamné ID)  
+- Údaje o používaní (napr. interakcie s aplikáciou, trvanie relácie)  
+
+Tieto informácie sa používajú na poskytovanie personalizovaných reklám a zlepšenie výkonu reklám. Nemáme prístup k osobným údajom ani ich sami nezdieľame.
+
+### Ako sa používajú vaše údaje  
+Údaje zhromaždené spoločnosťou AdMob môžu byť použité na:  
+- Zobrazenie reklám, ktoré zodpovedajú vašim záujmom  
+- Meranie výkonu reklám a zlepšenie kvality aplikácie  
+- Prevenciu podvodov a zvýšenie bezpečnosti  
+
+Vaše údaje nepoužívame na iné účely.
+
+### Voľby používateľa  
+Môžete sa odhlásiť z personalizovaných reklám úpravou nastavení Google tu: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Ochrana súkromia detí  
+Christmas Alarm Clock nie je určený pre deti mladšie ako 13 rokov a vedome nezbierame údaje od detí.
+
+### Služby tretích strán  
+Táto aplikácia používa služby tretích strán, ako je Google AdMob, ktoré majú vlastné zásady ochrany osobných údajov. Pre viac informácií si pozrite [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Aktualizácie týchto zásad ochrany osobných údajov  
+Tieto zásady ochrany osobných údajov môžeme príležitostne aktualizovať. Najnovšia verzia bude vždy dostupná v aplikácii.
+
+### Kontaktujte nás  
+Ak máte otázky alebo obavy týkajúce sa týchto zásad ochrany osobných údajov, kontaktujte nás:  
+**E-mail:** contact@liveoffline.ca
+
+---
+
+## Slovenian (sl)
+
+**Politika zasebnosti – Christmas Alarm Clock**  
+
+**Datum uveljavitve:** 24. november 2025  
+
+Vaša zasebnost nam je pomembna. Christmas Alarm Clock je zasnovan tako, da **ne zbira ali shranjuje nobenih osebnih podatkov**.
+
+### Zbiranje podatkov  
+Čeprav ne zbiramo vaših osebnih podatkov, ta aplikacija uporablja **Google AdMob** za prikazovanje oglasov. AdMob lahko zbira informacije, kot so:  
+- Identifikatorji naprav (npr. ID za oglaševanje)  
+- Podatki o uporabi (npr. interakcije z aplikacijo, trajanje seje)  
+
+Te informacije se uporabljajo za prikazovanje personaliziranih oglasov in izboljšanje učinkovitosti oglasov. Nimamo dostopa do osebnih podatkov in jih sami ne delimo.
+
+### Kako se vaši podatki uporabljajo  
+Podatki, ki jih zbira AdMob, se lahko uporabijo za:  
+- Prikazovanje oglasov, ki ustrezajo vašim interesom  
+- Merjenje učinkovitosti oglasov in izboljšanje kakovosti aplikacije  
+- Preprečevanje goljufij in povečanje varnosti  
+
+Vaših podatkov ne uporabljamo za druge namene.
+
+### Izbire uporabnika  
+Od personaliziranih oglasov se lahko odjavite z nastavitvijo Google tukaj: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Zasebnost otrok  
+Christmas Alarm Clock ni namenjen otrokom, mlajšim od 13 let, in zavestno ne zbiramo podatkov od otrok.
+
+### Storitve tretjih oseb  
+Ta aplikacija uporablja storitve tretjih oseb, kot je Google AdMob, ki imajo svoje lastne prakse zasebnosti. Za več informacij si oglejte [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Posodobitve te politike zasebnosti  
+To politiko zasebnosti bomo občasno posodobili. Najnovejša različica bo vedno dostopna v aplikaciji.
+
+### Kontaktirajte nas  
+Če imate vprašanja ali pomisleke glede te politike zasebnosti, nas kontaktirajte:  
+**E-pošta:** contact@liveoffline.ca
+
+---
+
+## Swedish (sv)
+
+**Integritetspolicy – Christmas Alarm Clock**  
+
+**Ikraftträdandedatum:** 24 november 2025  
+
+Din integritet är viktig för oss. Christmas Alarm Clock är utformat för att **inte samla in eller lagra någon personlig information**.
+
+### Datainsamling  
+Även om vi inte samlar in dina personuppgifter använder denna app **Google AdMob** för att visa annonser. AdMob kan samla in information som:  
+- Enhetsidentifierare (t.ex. reklam-ID)  
+- Användningsdata (t.ex. appinteraktioner, sessionstid)  
+
+Denna information används för att leverera personliga annonser och förbättra annonsens prestanda. Vi har inte tillgång till personliga uppgifter och delar dem inte själva.
+
+### Hur dina uppgifter används  
+Data som samlas in av AdMob kan användas för att:  
+- Visa annonser som matchar dina intressen  
+- Mäta annonsens prestanda och förbättra appens kvalitet  
+- Förebygga bedrägeri och öka säkerheten  
+
+Vi använder inte dina uppgifter för andra ändamål.
+
+### Användarval  
+Du kan välja bort personliga annonser genom att justera dina Google-inställningar här: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Barns integritet  
+Christmas Alarm Clock är inte avsedd för barn under 13 år, och vi samlar inte medvetet in data från barn.
+
+### Tjänster från tredje part  
+Denna app använder tredjepartstjänster såsom Google AdMob, som har sina egna sekretessrutiner. För mer information, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Uppdateringar av denna integritetspolicy  
+Vi kan uppdatera denna integritetspolicy ibland. Den senaste versionen kommer alltid vara tillgänglig i appen.
+
+### Kontakta oss  
+Om du har frågor eller funderingar kring denna integritetspolicy, kontakta oss:  
+**E-post:** contact@liveoffline.ca
 
 ---
 
