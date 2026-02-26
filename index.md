@@ -19,27 +19,27 @@ For US users (California, Virginia, Colorado), you can review or opt-out of pers
 This file contains the Privacy Policy in multiple languages. Click a language below to jump to it:
 
 ## Language Index
-- [English](#english)
-- [Arabic](#العربية)
-- [Bengali](#বাংলা)
-- [German](#deutsch)
-- [Greek](#ελληνικά)
-- [Spanish](#español)
-- [French](#français)
-- [Hindi](#हिन्दी)
-- [Italian](#italiano)
-- [Japanese](#日本語)
-- [Korean](#한국어)
-- [Dutch](#nederlands)
-- [Polish](#polski)
-- [Portuguese](#português)
-- [Romanian](#română)
-- [Russian](#русский)
-- [Ukrainian](#українська)
+- [English](#english-en)
+- [Arabic](#arabic-ar)
+- [Bengali](#bengali-bn)
+- [German](#german-de)
+- [Greek](#greek-el)
+- [Spanish](#spanish-es)
+- [French](#french-fr)
+- [Hindi](#hindi-hi)
+- [Italian](#italian-it)
+- [Japanese](#japanese-ja)
+- [Korean](#korean-ko)
+- [Dutch](#dutch-nl)
+- [Polish](#polish-pl)
+- [Portuguese](#portuguese-pt)
+- [Romanian](#romanian-ro)
+- [Russian](#russian-ru)
+- [Ukrainian](#ukrainian-uk)
 
 ---
 
-## English
+## English (en)
 
 **Privacy Policy – Christmas Alarm Clock**  
 
@@ -79,11 +79,11 @@ We may update this Privacy Policy occasionally. The latest version will always b
 
 **Contact Us**  
 If you have questions or concerns about this Privacy Policy, contact us:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## العربية (Arabic)
+## Arabic (ar)
 
 **سياسة الخصوصية – منبه عيد الميلاد**  
 
@@ -124,11 +124,11 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 **اتصل بنا**  
 إذا كان لديك أي أسئلة أو مخاوف حول سياسة الخصوصية هذه، تواصل معنا:  
-**البريد الإلكتروني:** liveoffline2021@gmail.com
+**البريد الإلكتروني:** contact@liveoffline.ca
 
 ---
 
-## বাংলা (Bengali)
+## Bengali (bn)
 
 **গোপনীয়তা নীতি – ক্রিসমাস অ্যালার্ম ক্লক**  
 
@@ -168,11 +168,11 @@ AdMob দ্বারা সংগ্রহিত ডেটা ব্যবহ�
 
 **যোগাযোগ করুন**  
 এই গোপনীয়তা নীতির বিষয়ে আপনার কোনো প্রশ্ন বা উদ্বেগ থাকলে, আমাদের সাথে যোগাযোগ করুন:  
-**ইমেল:** liveoffline2021@gmail.com
+**ইমেল:** contact@liveoffline.ca
 
 ---
 
-## Deutsch (German)
+## German (de)
 
 **Datenschutzbestimmungen – Weihnachtswecker**  
 
@@ -212,11 +212,55 @@ Wir können diese Datenschutzbestimmungen gelegentlich aktualisieren. Die neuest
 
 **Kontakt**  
 Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bitte:  
-**E-Mail:** liveoffline2021@gmail.com
+**E-Mail:** contact@liveoffline.ca
 
 ---
 
-## Español (Spanish)
+## Greek (el)
+
+**Πολιτική Απορρήτου – Christmas Alarm Clock**  
+
+**Ημερομηνία έναρξης ισχύος:** 24 Νοεμβρίου 2025  
+
+Το απόρρητό σας είναι σημαντικό για εμάς. Το Christmas Alarm Clock έχει σχεδιαστεί ώστε **να μην συλλέγει ή αποθηκεύει προσωπικές πληροφορίες**.
+
+**Συλλογή Δεδομένων**  
+Παρόλο που δεν συλλέγουμε προσωπικά δεδομένα, η εφαρμογή χρησιμοποιεί το **Google AdMob** για την προβολή διαφημίσεων. Το AdMob ενδέχεται να συλλέγει πληροφορίες όπως:  
+- Αναγνωριστικά συσκευής (π.χ. αναγνωριστικό διαφήμισης)  
+- Δεδομένα χρήσης (π.χ. αλληλεπιδράσεις με την εφαρμογή, διάρκεια συνεδρίας)  
+
+Αυτές οι πληροφορίες χρησιμοποιούνται για την παροχή εξατομικευμένων διαφημίσεων και τη βελτίωση της απόδοσης των διαφημίσεων. Δεν έχουμε πρόσβαση σε προσωπικά στοιχεία ούτε τα κοινοποιούμε.
+
+**Πώς Χρησιμοποιούνται τα Δεδομένα σας**  
+Τα δεδομένα που συλλέγονται από το AdMob ενδέχεται να χρησιμοποιούνται για:  
+- Την προβολή διαφημίσεων που ταιριάζουν με τα ενδιαφέροντά σας  
+- Τη μέτρηση της απόδοσης των διαφημίσεων και τη βελτίωση της ποιότητας της εφαρμογής  
+- Την πρόληψη απάτης και την ενίσχυση της ασφάλειας  
+
+Δεν χρησιμοποιούμε τα δεδομένα σας για οποιονδήποτε άλλο σκοπό.
+
+## Συναίνεση και Ανάκληση Διαφημίσεων
+
+Για χρήστες στον Ευρωπαϊκό Οικονομικό Χώρο (ΕΟΧ), στο Ηνωμένο Βασίλειο και στην Ελβετία, μπορείτε να ελέγξετε ή να αλλάξετε τη συναίνεσή σας για διαφημίσεις ανά πάσα στιγμή μέσω της [σελίδας ανάκλησης συναίνεσης της Google](https://www.google.com/appconsent).
+
+Για γενικές ρυθμίσεις διαφημίσεων Google, μπορείτε επίσης να επισκεφθείτε τις [Ρυθμίσεις Διαφημίσεων Google](https://www.google.com/settings/ads) για να διαχειριστείτε την εξατομίκευση διαφημίσεων σε όλες τις υπηρεσίες Google.
+
+**Απόρρητο Παιδιών**  
+Το Christmas Alarm Clock δεν προορίζεται για παιδιά κάτω των 13 ετών και δεν συλλέγουμε εν γνώσει μας δεδομένα από παιδιά.
+
+**Υπηρεσίες Τρίτων**  
+Αυτή η εφαρμογή χρησιμοποιεί υπηρεσίες τρίτων, όπως το Google AdMob, οι οποίες έχουν τις δικές τους πρακτικές απορρήτου. Για περισσότερες πληροφορίες, ανατρέξτε στην [Πολιτική Απορρήτου της Google](https://policies.google.com/privacy).
+
+**Ενημερώσεις στην Πολιτική Απορρήτου**  
+Ενδέχεται να ενημερώνουμε αυτήν την Πολιτική Απορρήτου κατά καιρούς. Η πιο πρόσφατη έκδοση θα είναι πάντα διαθέσιμη μέσα στην εφαρμογή.
+
+**Επικοινωνία**  
+Εάν έχετε ερωτήσεις ή ανησυχίες σχετικά με αυτήν την Πολιτική Απορρήτου, επικοινωνήστε μαζί μας:  
+**Email:** contact@liveoffline.ca
+
+---
+
+## Spanish (es)
 
 **Política de Privacidad – Reloj Despertador de Navidad**  
 
@@ -256,11 +300,11 @@ Podemos actualizar esta política ocasionalmente. La versión más reciente siem
 
 **Contáctanos**  
 Si tienes preguntas o inquietudes sobre esta política de privacidad, contáctanos:  
-**Correo electrónico:** liveoffline2021@gmail.com
+**Correo electrónico:** contact@liveoffline.ca
 
 ---
 
-## Français (French)
+## French (fr)
 
 **Politique de Confidentialité – Réveil de Noël**  
 
@@ -300,11 +344,11 @@ Nous pouvons mettre à jour cette politique de temps en temps. La dernière vers
 
 **Contactez-nous**  
 Pour toute question concernant cette politique, contactez-nous:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## हिन्दी (Hindi)
+## Hindi (hi)
 
 **गोपनीयता नीति – क्रिसमस अलार्म क्लॉक**  
 
@@ -344,11 +388,11 @@ AdMob द्वारा संग्रहित डेटा का उपय�
 
 **संपर्क करें**  
 यदि आपके पास इस नीति के बारे में प्रश्न हैं, तो हमसे संपर्क करें:  
-**ईमेल:** liveoffline2021@gmail.com
+**ईमेल:** contact@liveoffline.ca
 
 ---
 
-## Italiano (Italian)
+## Italian (it)
 
 **Informativa sulla Privacy – Sveglia di Natale**  
 
@@ -388,11 +432,11 @@ Potremmo aggiornare la presente politica di tanto in tanto. L’ultima versione 
 
 **Contattaci**  
 Per domande o dubbi sulla presente informativa, contattaci:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## 日本語 (Japanese)
+## Japanese (ja)
 
 **プライバシーポリシー – クリスマスアラームクロック**  
 
@@ -432,11 +476,11 @@ AdMobにより収集されたデータは以下の目的で使用されること
 
 **お問い合わせ**  
 プライバシーポリシーに関する質問や懸念がある場合は、以下までご連絡ください：  
-**メール:** liveoffline2021@gmail.com
+**メール:** contact@liveoffline.ca
 
 ---
 
-## 한국어 (Korean)
+## Korean (ko)
 
 **개인정보 처리방침 – 크리스마스 알람 시계**  
 
@@ -476,11 +520,11 @@ AdMob에서 수집한 데이터는 다음에 사용될 수 있습니다:
 
 **문의하기**  
 이 개인정보 처리방침에 대한 질문이나 우려사항이 있으면 연락주세요:  
-**이메일:** liveoffline2021@gmail.com
+**이메일:** contact@liveoffline.ca
 
 ---
 
-## Nederlands (Dutch)
+## Dutch (nl)
 
 **Privacybeleid – Kerstwekker**  
 
@@ -520,11 +564,11 @@ We kunnen dit privacybeleid van tijd tot tijd bijwerken. De nieuwste versie is a
 
 **Contact**  
 Als u vragen of opmerkingen heeft over dit privacybeleid, neem contact met ons op:  
-**E-mail:** liveoffline2021@gmail.com
+**E-mail:** contact@liveoffline.ca
 
 ---
 
-## Polski (Polish)
+## Polish (pl)
 
 **Polityka prywatności – Budzik Bożonarodzeniowy**  
 
@@ -564,11 +608,11 @@ Polityka prywatności może być od czasu do czasu aktualizowana. Najnowsza wers
 
 **Kontakt**  
 W przypadku pytań lub wątpliwości dotyczących polityki prywatności, prosimy o kontakt:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Português (Portuguese)
+## Portuguese (pt)
 
 **Política de Privacidade – Despertador de Natal**  
 
@@ -608,11 +652,11 @@ Podemos atualizar esta política de tempos em tempos. A versão mais recente est
 
 **Contato**  
 Se você tiver perguntas ou preocupações sobre esta política, entre em contato conosco:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Română (Romanian)
+## Romanian (ro)
 
 **Politica de Confidențialitate – Ceas deșteptător de Crăciun**  
 
@@ -652,11 +696,11 @@ Această politică poate fi actualizată ocazional. Versiunea cea mai recentă v
 
 **Contact**  
 Pentru întrebări sau nelămuriri privind această politică, contactați-ne:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Русский (Russian)
+## Russian (ru)
 
 **Политика конфиденциальности – Рождественский будильник**  
 
@@ -696,11 +740,11 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 **Связь с нами**  
 Если у вас есть вопросы о политике конфиденциальности, свяжитесь с нами:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Українська (Ukrainian)
+## Ukrainian (uk)
 
 **Політика конфіденційності – Різдвяний будильник**  
 
@@ -740,4 +784,4 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 
 **Контакт**  
 Якщо у вас є питання щодо цієї політики конфіденційності, зв’яжіться з нами:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
